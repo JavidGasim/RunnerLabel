@@ -1,0 +1,16 @@
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\bin\Debug\net6.0-windows\RunnerLabel.exe
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\bin\Debug\net6.0-windows\RunnerLabel.deps.json
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\bin\Debug\net6.0-windows\RunnerLabel.runtimeconfig.json
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\bin\Debug\net6.0-windows\RunnerLabel.dll
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\bin\Debug\net6.0-windows\RunnerLabel.pdb
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.Form1.resources
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.csproj.GenerateResource.cache
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.AssemblyInfo.cs
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.dll
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\refint\RunnerLabel.dll
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.pdb
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\RunnerLabel.genruntimeconfig.cache
+C:\Users\gasim\source\repos\RunnerLabel\RunnerLabel\obj\Debug\net6.0-windows\ref\RunnerLabel.dll
